@@ -1,0 +1,13 @@
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\bin\Debug\nupkg2dll.exe.config
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\bin\Debug\nupkg2dll.exe
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\bin\Debug\nupkg2dll.pdb
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\bin\Debug\nupkg2dll.xml
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.vbproj.AssemblyReference.cache
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.Form1.resources
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.Resources.resources
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.vbproj.GenerateResource.cache
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.vbproj.CoreCompileInputs.cache
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.exe
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.xml
+C:\Users\Sorec\source\repos\Nupkg DLL Extractor\obj\Debug\nupkg2dll.pdb
